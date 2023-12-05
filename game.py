@@ -1,3 +1,13 @@
+Spele
+
+
+Saturs
+
+
+
+
+
+
 import random
 
 repeat = True
